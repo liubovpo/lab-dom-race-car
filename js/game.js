@@ -32,7 +32,7 @@ class Game {
     }
 
     update(){
-        player.move()
+        this.player.move()
         
     }
 }
